@@ -1,6 +1,6 @@
 # nuxt-pro
 
-> A nuxt demo project
+> 一个nux项目用于熟悉vue ssr开发魔刹石
 
 ## Build Setup
 
@@ -17,6 +17,3 @@ $ yarn start
 
 # generate static project
 $ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
